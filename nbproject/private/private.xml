@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/Convertor.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Server/ClientHandler.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Connection/ClientConnection.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/OperationsListFrame.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/Role.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/UserListFrame.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/main.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Models/TableColumnAdjuster.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Dialog/BudgetEditDialog.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Models/UsersInformationModel.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/UserSettingsFrame.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/OperationStatistics.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Dialog/OperationEditDialog.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/UserGui.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Server/MultiThreadServer.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/Budget.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Tables/Bud.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/SearchInformation.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/BudgetFrame.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/ConvertMoney.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Models/OperationInformationModel.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/Currency.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Connection/DatabaseConnection.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/UserMenu.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Classes/Operation.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Dialog/EmployeeEditDialog.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/Models/BudgetInformationModel.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/SettingsMenu.java</file>
+            <file>file:/D:/UNIVERSITY/Study/3kurs/progsp/kurs/firstlast/JavaApplication5/src/javaapplication5/GUI/progress.java</file>
+        </group>
+    </open-files>
+</project-private>
